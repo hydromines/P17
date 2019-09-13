@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/tg/Git/P17/Code/RPi/devel -DCMAKE_INSTALL_PREFIX=/home/tg/Git/P17/Code/RPi/install -G Unix Makefiles
