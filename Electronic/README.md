@@ -13,5 +13,5 @@
     -Raspberry Pi
     
 ##Actuators
-    -Savox
+    -Savox: Waterproof servomotor
     -Electronic Motor
