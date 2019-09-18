@@ -1,0 +1,85 @@
+\BOOKMARK [-1][-]{part.1}{I Les bateaux}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Billy}{part.1}% 2
+\BOOKMARK [0][-]{chapter.2}{Billy the Kid}{part.1}% 3
+\BOOKMARK [0][-]{chapter.3}{Bateau lourd 2018}{part.1}% 4
+\BOOKMARK [1][-]{section.3.1}{Conception}{chapter.3}% 5
+\BOOKMARK [2][-]{subsection.3.1.1}{\311trave perce-vaque}{section.3.1}% 6
+\BOOKMARK [2][-]{subsection.3.1.2}{PolyCAD}{section.3.1}% 7
+\BOOKMARK [1][-]{section.3.2}{Fabrication}{chapter.3}% 8
+\BOOKMARK [2][-]{subsection.3.2.1}{Couples}{section.3.2}% 9
+\BOOKMARK [2][-]{subsection.3.2.2}{Lattes}{section.3.2}% 10
+\BOOKMARK [2][-]{subsection.3.2.3}{Stratification de la coque}{section.3.2}% 11
+\BOOKMARK [2][-]{subsection.3.2.4}{Les safrans}{section.3.2}% 12
+\BOOKMARK [2][-]{subsection.3.2.5}{Les traverses}{section.3.2}% 13
+\BOOKMARK [-1][-]{part.2}{II Calculs Hydrodynamiques}{}% 14
+\BOOKMARK [0][-]{chapter.4}{Comment calculer et optimiser la tra\356n\351e?}{part.2}% 15
+\BOOKMARK [0][-]{chapter.5}{Calcul num\351rique approch\351 de la tra\356n\351e pour les bateaux fins}{part.2}% 16
+\BOOKMARK [0][-]{chapter.6}{Logiciel d'Elie Hachem}{part.2}% 17
+\BOOKMARK [0][-]{chapter.7}{Logiciel: Fine Marine}{part.2}% 18
+\BOOKMARK [-1][-]{part.3}{III CAO}{}% 19
+\BOOKMARK [0][-]{chapter.8}{PolyCAD}{part.3}% 20
+\BOOKMARK [-1][-]{part.4}{IV Les outils \340 disposition}{}% 21
+\BOOKMARK [0][-]{chapter.9}{Les outils de la menuiserie}{part.4}% 22
+\BOOKMARK [1][-]{section.9.1}{L'imprimante 3D}{chapter.9}% 23
+\BOOKMARK [2][-]{subsection.9.1.1}{Le logiciel: Cura}{section.9.1}% 24
+\BOOKMARK [2][-]{subsection.9.1.2}{Utilisation}{section.9.1}% 25
+\BOOKMARK [1][-]{section.9.2}{La d\351coupeuse laser}{chapter.9}% 26
+\BOOKMARK [2][-]{subsection.9.2.1}{Le logiciel: Inkscape}{section.9.2}% 27
+\BOOKMARK [0][-]{chapter.10}{Le mat\351riel de stratification}{part.4}% 28
+\BOOKMARK [-1][-]{part.5}{V Le mat\351riel}{}% 29
+\BOOKMARK [0][-]{chapter.11}{Objectif de cette partie}{part.5}% 30
+\BOOKMARK [0][-]{chapter.12}{Composants p\373rement \351lectroniques}{part.5}% 31
+\BOOKMARK [1][-]{section.12.1}{Syst\350me de contr\364le}{chapter.12}% 32
+\BOOKMARK [2][-]{subsection.12.1.1}{Radiocommande}{section.12.1}% 33
+\BOOKMARK [2][-]{subsection.12.1.2}{R\351cepteur}{section.12.1}% 34
+\BOOKMARK [1][-]{section.12.2}{Communication radio}{chapter.12}% 35
+\BOOKMARK [1][-]{section.12.3}{Utiliser internet en cas de perte de la liaison radio}{chapter.12}% 36
+\BOOKMARK [1][-]{section.12.4}{Transmission vid\351o analogique}{chapter.12}% 37
+\BOOKMARK [2][-]{subsection.12.4.1}{\311metteur vid\351o VTX}{section.12.4}% 38
+\BOOKMARK [2][-]{subsection.12.4.2}{R\351cepteur vid\351o \(\311cran\)}{section.12.4}% 39
+\BOOKMARK [2][-]{subsection.12.4.3}{Cam\351ra}{section.12.4}% 40
+\BOOKMARK [2][-]{subsection.12.4.4}{Les antennes}{section.12.4}% 41
+\BOOKMARK [1][-]{section.12.5}{Micro-ordinateurs}{chapter.12}% 42
+\BOOKMARK [1][-]{section.12.6}{Micro-contr\364leurs}{chapter.12}% 43
+\BOOKMARK [1][-]{section.12.7}{Convertisseur USB-s\351rie}{chapter.12}% 44
+\BOOKMARK [1][-]{section.12.8}{La centrale inertielle \(IMU\)}{chapter.12}% 45
+\BOOKMARK [1][-]{section.12.9}{Le r\351cepteur GPS}{chapter.12}% 46
+\BOOKMARK [1][-]{section.12.10}{Le LIDAR}{chapter.12}% 47
+\BOOKMARK [0][-]{chapter.13}{Composants \351lectriques}{part.5}% 48
+\BOOKMARK [1][-]{section.13.1}{Interrupteurs}{chapter.13}% 49
+\BOOKMARK [1][-]{section.13.2}{Fusibles et porte-fusibles}{chapter.13}% 50
+\BOOKMARK [1][-]{section.13.3}{Batteries}{chapter.13}% 51
+\BOOKMARK [0][-]{chapter.14}{Mat\351riel pour r\351aliser des circuits}{part.5}% 52
+\BOOKMARK [1][-]{section.14.1}{Perfboards}{chapter.14}% 53
+\BOOKMARK [1][-]{section.14.2}{Faire fabriquer un circuit imprim\351 ?}{chapter.14}% 54
+\BOOKMARK [1][-]{section.14.3}{Connecteurs Dupont et JST}{chapter.14}% 55
+\BOOKMARK [1][-]{section.14.4}{Fil \351lectrique pour hautes intensit\351s}{chapter.14}% 56
+\BOOKMARK [1][-]{section.14.5}{Connecteurs haute puissance}{chapter.14}% 57
+\BOOKMARK [1][-]{section.14.6}{Wago}{chapter.14}% 58
+\BOOKMARK [0][-]{chapter.15}{Bo\356tiers \351tanches}{part.5}% 59
+\BOOKMARK [0][-]{chapter.16}{Circuit de refroidissement}{part.5}% 60
+\BOOKMARK [1][-]{section.16.1}{Tube nylon}{chapter.16}% 61
+\BOOKMARK [1][-]{section.16.2}{Pompe}{chapter.16}% 62
+\BOOKMARK [1][-]{section.16.3}{Echangeur eau-air}{chapter.16}% 63
+\BOOKMARK [1][-]{section.16.4}{Adaptateurs raccord filet\351 - connexion rapide}{chapter.16}% 64
+\BOOKMARK [1][-]{section.16.5}{R\351servoir d'eau}{chapter.16}% 65
+\BOOKMARK [1][-]{section.16.6}{Mise en place d'un circuit de refroidissement \351labor\351}{chapter.16}% 66
+\BOOKMARK [0][-]{chapter.17}{Passage de cables \351tanche entre un bo\356tier et l'ext\351rieur}{part.5}% 67
+\BOOKMARK [0][-]{chapter.18}{Bilan : fournisseurs \351voqu\351s}{part.5}% 68
+\BOOKMARK [-1][-]{part.6}{VI Les partenaires}{}% 69
+\BOOKMARK [0][-]{section.18.1}{Mines}{part.6}% 70
+\BOOKMARK [1][-]{subsection.18.1.1}{La DE}{section.18.1}% 71
+\BOOKMARK [2][-]{subsection.18.1.2}{Les Alumnis}{subsection.18.1.1}% 72
+\BOOKMARK [1][-]{section.18.2}{Entreprises}{section.18.1}% 73
+\BOOKMARK [2][-]{subsection.18.2.1}{Numeca}{section.18.2}% 74
+\BOOKMARK [2][-]{subsection.18.2.2}{Chomarat}{section.18.2}% 75
+\BOOKMARK [2][-]{subsection.18.2.3}{Le Chantier Naval de Bordeaux}{section.18.2}% 76
+\BOOKMARK [2][-]{subsection.18.2.4}{Schlumberger}{section.18.2}% 77
+\BOOKMARK [2][-]{subsection.18.2.5}{Missler Software}{section.18.2}% 78
+\BOOKMARK [2][-]{subsection.18.2.6}{Cirtes}{section.18.2}% 79
+\BOOKMARK [2][-]{subsection.18.2.7}{Autres}{section.18.2}% 80
+\BOOKMARK [1][-]{section.18.3}{Particuliers}{section.18.1}% 81
+\BOOKMARK [-1][-]{part.7}{VII Les \351quipes hydromines}{}% 82
+\BOOKMARK [0][-]{section.18.4}{2016-2018}{part.7}% 83
+\BOOKMARK [1][-]{section.18.5}{2017-2019}{section.18.4}% 84
+\BOOKMARK [1][-]{section.18.6}{2018-2020}{section.18.4}% 85
