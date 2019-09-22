@@ -1,0 +1,8 @@
+prefix=/home/tg/Git/P17/Code/RPi/install
+
+Name: rosserial_server
+Description: Description of rosserial_server
+Version: 0.8.0
+Cflags: -I/home/tg/Git/P17/Code/RPi/install/include
+Libs: -L/home/tg/Git/P17/Code/RPi/install/lib 
+Requires: roscpp rosserial_msgs std_msgs topic_tools

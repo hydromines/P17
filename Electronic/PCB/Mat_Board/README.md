@@ -1,0 +1,1 @@
+The PCB is finished. It will be connected by a cable containing 12 wires to the main board inside the boat.

@@ -1,4 +1,4 @@
-\select@language {french}
+\babel@toc {french}{}
 \contentsline {part}{I\hspace {1em}Les bateaux}{4}{part.1}
 \contentsline {chapter}{\numberline {1}Billy}{5}{chapter.1}
 \contentsline {chapter}{\numberline {2}Billy the Kid}{6}{chapter.2}

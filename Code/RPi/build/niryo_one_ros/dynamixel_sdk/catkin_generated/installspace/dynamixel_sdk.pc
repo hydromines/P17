@@ -1,0 +1,8 @@
+prefix=/home/tg/Git/P17/Code/RPi/install
+
+Name: dynamixel_sdk
+Description: Description of dynamixel_sdk
+Version: 3.4.7
+Cflags: -I/home/tg/Git/P17/Code/RPi/install/include
+Libs: -L/home/tg/Git/P17/Code/RPi/install/lib -ldynamixel_sdk
+Requires: 

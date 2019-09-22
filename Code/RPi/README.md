@@ -1,5 +1,8 @@
 # Raspberry Pi code
 
+## TO DO
+* Add packages to use VN-100, Xbee module, GNSS receiver, Motor feedback
+
 ## Using ROS
 Reasons why: 
     - Can program in C++ or in Python

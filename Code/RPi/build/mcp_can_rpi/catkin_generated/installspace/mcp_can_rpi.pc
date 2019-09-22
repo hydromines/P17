@@ -1,0 +1,8 @@
+prefix=/home/tg/Git/P17/Code/RPi/install
+
+Name: mcp_can_rpi
+Description: Description of mcp_can_rpi
+Version: 1.0.0
+Cflags: -I/home/tg/Git/P17/Code/RPi/install/include
+Libs: -L/home/tg/Git/P17/Code/RPi/install/lib -lmcp_can_rpi
+Requires: 

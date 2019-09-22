@@ -1,0 +1,8 @@
+prefix=/home/tg/Git/P17/Code/RPi/devel
+
+Name: niryo_one_description
+Description: Description of niryo_one_description
+Version: 2.2.0
+Cflags: 
+Libs: -L/home/tg/Git/P17/Code/RPi/devel/lib 
+Requires: 

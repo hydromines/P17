@@ -1,0 +1,8 @@
+prefix=/home/tg/Git/P17/Code/RPi/devel
+
+Name: dynamixel_sdk
+Description: Description of dynamixel_sdk
+Version: 3.4.7
+Cflags: -I/home/tg/Git/P17/Code/RPi/src/niryo_one_ros/dynamixel_sdk/include
+Libs: -L/home/tg/Git/P17/Code/RPi/devel/lib -ldynamixel_sdk
+Requires: 

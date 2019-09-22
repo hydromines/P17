@@ -1,0 +1,8 @@
+prefix=/home/tg/Git/P17/Code/RPi/devel
+
+Name: vectornav
+Description: Description of vectornav
+Version: 2.0.0
+Cflags: 
+Libs: -L/home/tg/Git/P17/Code/RPi/devel/lib 
+Requires: roscpp sensor_msgs

@@ -1,0 +1,8 @@
+prefix=/home/tg/Git/P17/Code/RPi/devel
+
+Name: rosserial_client
+Description: Description of rosserial_client
+Version: 0.8.0
+Cflags: 
+Libs: -L/home/tg/Git/P17/Code/RPi/devel/lib 
+Requires: 

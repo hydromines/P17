@@ -2,6 +2,9 @@
 
 A teensy 3.2 is used because it can handle 5V power supply. It's purpose is to handle the PWM signals recieved from the the transmitter and sent to the servomotor and motor. We dont connect the reciever directly the servomotor qnd the motor as it is usually done because we want to be able to switch between an automatic mode and a manual mode. The interruptor to switch between these two modes will be on the radiocommande. A Raspberry Pie cannot be used for this part because it cannot read PWM signals (impossible to use interrupts on the raspberry pi). Morevover, in case of problem, the reboot time of the teensy is almost instatenous, not like the RPi.
 
+## TO DO
+* Test teensy programm to read PWM
+
 ## Principle
 
 ### Read PWM signals
